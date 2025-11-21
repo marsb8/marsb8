@@ -40,7 +40,7 @@ My goal is to **strengthen organizational resilience** through proactive monitor
 
 ## 🎯 Featured Projects  
 
-### 1. CyberBenders Security Simulation
+### 1. [**Phase 1 Cybersecurity Homelab**](Phase1-cybersecurity-homelab.pdf)
 **Skills:** SIEM Configuration, Log Analysis, Threat Detection  
 
 Built a **Splunk-based SIEM** to monitor Windows and network logs for malicious activity.  
